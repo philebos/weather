@@ -2,8 +2,8 @@
 
 ## Today
 
-Cloudy
+Cloudy and sunny.
 
 ## Tomorrow
 
-Snow
+Snow and chill.
